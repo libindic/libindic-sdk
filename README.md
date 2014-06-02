@@ -1,4 +1,1 @@
-silpa-sdk
-=========
-
-SILPA android SDK
+# SILPA Android SDK
