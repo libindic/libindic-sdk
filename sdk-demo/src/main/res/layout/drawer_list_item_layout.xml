@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvModuleName"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceListItemSmall"
+    android:gravity="center_vertical"
+    android:paddingLeft="@dimen/navigation_drawer_list_item_layout_padding_left"
+    android:paddingRight="@dimen/navigation_drawer_list_item_layout_padding_right"
+    android:textColor="@color/navigation_drawer_list_item_text_color"
+    android:background="?android:attr/activatedBackgroundIndicator"
+    android:minHeight="?android:attr/listPreferredItemHeightSmall" />

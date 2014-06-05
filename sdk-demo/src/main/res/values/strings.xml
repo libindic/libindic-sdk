@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">sdk-demo</string>
+    <string name="app_name">silpa-sdk-demo</string>
+    <string-array name="modules_titles_array">
+        <item>Soundex</item>
+        <item>Payyans</item>
+        <item>Transliterator</item>
+        <item>Spell Checker</item>
+        <item>Fortune</item>
+        <item>Hyphenator</item>
+        <item>UCA Sort</item>
+        <item>Guess Language</item>
+        <item>Stemmer</item>
+        <item>Syllabalizer</item>
+        <item>Katapayadi</item>
+        <item>Character Details</item>
+    </string-array>
+    <string name="drawer_open">Open Navigational Drawer</string>
+    <string name="drawer_close">Close Navigational Drawer</string>
 </resources>
