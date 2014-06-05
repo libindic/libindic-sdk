@@ -1,0 +1,3 @@
+[submodule "sdk-soundex"]
+	path = sdk-soundex
+	url = git@github.com:SujithVadakkepat/sdk-soundex.git
