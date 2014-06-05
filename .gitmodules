@@ -13,3 +13,6 @@
 [submodule "sdk-fortune"]
 	path = sdk-fortune
 	url = git@github.com:SujithVadakkepat/sdk-fortune.git
+[submodule "sdk-syllabifier"]
+	path = sdk-syllabifier
+	url = git@github.com:SujithVadakkepat/sdk-syllabifier.git
