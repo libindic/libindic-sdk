@@ -10,3 +10,6 @@
 [submodule "sdk-characterdetails"]
 	path = sdk-characterdetails
 	url = git@github.com:SujithVadakkepat/sdk-characterdetails.git
+[submodule "sdk-fortune"]
+	path = sdk-fortune
+	url = git@github.com:SujithVadakkepat/sdk-fortune.git
