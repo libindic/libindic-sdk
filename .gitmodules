@@ -1,3 +1,6 @@
 [submodule "sdk-soundex"]
 	path = sdk-soundex
 	url = git@github.com:SujithVadakkepat/sdk-soundex.git
+[submodule "sdk-payyans"]
+	path = sdk-payyans
+	url = git@github.com:SujithVadakkepat/sdk-payyans.git

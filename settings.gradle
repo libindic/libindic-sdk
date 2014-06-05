@@ -1,2 +1,3 @@
 include ':silpa-sdk'
 include ':sdk-soundex'
+include ':sdk-payyans'
