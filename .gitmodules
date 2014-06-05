@@ -4,3 +4,6 @@
 [submodule "sdk-payyans"]
 	path = sdk-payyans
 	url = git@github.com:SujithVadakkepat/sdk-payyans.git
+[submodule "sdk-stemmer"]
+	path = sdk-stemmer
+	url = git@github.com:SujithVadakkepat/sdk-stemmer.git
