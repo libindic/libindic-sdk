@@ -7,3 +7,6 @@
 [submodule "sdk-stemmer"]
 	path = sdk-stemmer
 	url = git@github.com:SujithVadakkepat/sdk-stemmer.git
+[submodule "sdk-characterdetails"]
+	path = sdk-characterdetails
+	url = git@github.com:SujithVadakkepat/sdk-characterdetails.git
