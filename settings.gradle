@@ -1,4 +1,4 @@
-include ':silpa-sdk'
+include ':silpa-sdk', ':sdk-demo'
 include ':sdk-soundex'
 include ':sdk-payyans'
 include ':sdk-stemmer'
