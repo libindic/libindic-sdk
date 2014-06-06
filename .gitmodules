@@ -16,3 +16,6 @@
 [submodule "sdk-syllabifier"]
 	path = sdk-syllabifier
 	url = git@github.com:SujithVadakkepat/sdk-syllabifier.git
+[submodule "sdk-common"]
+	path = sdk-common
+	url = https://github.com/SujithVadakkepat/sdk-common
