@@ -22,3 +22,6 @@
 [submodule "sdk-demo"]
 	path = sdk-demo
 	url = https://github.com/SujithVadakkepat/sdk-demo.git
+[submodule "sdk-katapayadi"]
+	path = sdk-katapayadi
+	url = https://github.com/SujithVadakkepat/sdk-katapayadi.git
