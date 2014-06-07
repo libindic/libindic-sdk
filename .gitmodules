@@ -1,24 +1,24 @@
 [submodule "sdk-soundex"]
 	path = sdk-soundex
-	url = git@github.com:SujithVadakkepat/sdk-soundex.git
+	url = https://github.com/SujithVadakkepat/sdk-soundex.git
 [submodule "sdk-payyans"]
 	path = sdk-payyans
-	url = git@github.com:SujithVadakkepat/sdk-payyans.git
+	url = https://github.com/SujithVadakkepat/sdk-payyans.git
 [submodule "sdk-stemmer"]
 	path = sdk-stemmer
-	url = git@github.com:SujithVadakkepat/sdk-stemmer.git
+	url = https://github.com/SujithVadakkepat/sdk-stemmer.git
 [submodule "sdk-characterdetails"]
 	path = sdk-characterdetails
-	url = git@github.com:SujithVadakkepat/sdk-characterdetails.git
+	url = https://github.com/SujithVadakkepat/sdk-characterdetails.git
 [submodule "sdk-fortune"]
 	path = sdk-fortune
-	url = git@github.com:SujithVadakkepat/sdk-fortune.git
+	url = https://github.com/SujithVadakkepat/sdk-fortune.git
 [submodule "sdk-syllabifier"]
 	path = sdk-syllabifier
-	url = git@github.com:SujithVadakkepat/sdk-syllabifier.git
+	url = https://github.com/SujithVadakkepat/sdk-syllabifier.git
 [submodule "sdk-common"]
 	path = sdk-common
-	url = https://github.com/SujithVadakkepat/sdk-common
+	url = https://github.com/SujithVadakkepat/sdk-common.git
 [submodule "sdk-demo"]
 	path = sdk-demo
-	url = git@github.com:SujithVadakkepat/sdk-demo.git
+	url = https://github.com/SujithVadakkepat/sdk-demo.git
