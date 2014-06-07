@@ -1,0 +1,18 @@
+language: android
+android:
+  components:
+    - build-tools-19.1.0
+    - android-19
+
+branches:
+  only:
+    - master
+
+jdk: openjdk7
+
+notifications:
+  email: false
+
+install: gradle clean build
+
+script: gradle check
