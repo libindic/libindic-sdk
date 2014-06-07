@@ -19,3 +19,6 @@
 [submodule "sdk-common"]
 	path = sdk-common
 	url = https://github.com/SujithVadakkepat/sdk-common
+[submodule "sdk-demo"]
+	path = sdk-demo
+	url = git@github.com:SujithVadakkepat/sdk-demo.git
