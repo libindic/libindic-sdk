@@ -29,4 +29,5 @@ dependencies {
     compile project(':sdk-characterdetails')
     compile project(':sdk-fortune')
     compile project(':sdk-syllabifier')
+    compile project(':sdk-katapayadi')
 }
