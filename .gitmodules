@@ -25,3 +25,6 @@
 [submodule "sdk-katapayadi"]
 	path = sdk-katapayadi
 	url = https://github.com/SujithVadakkepat/sdk-katapayadi.git
+[submodule "sdk-render"]
+	path = sdk-render
+	url = https://github.com/SujithVadakkepat/sdk-render.git
