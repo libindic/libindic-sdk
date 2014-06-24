@@ -28,3 +28,6 @@
 [submodule "sdk-render"]
 	path = sdk-render
 	url = https://github.com/SujithVadakkepat/sdk-render.git
+[submodule "sdk-transliteration"]
+	path = sdk-transliteration
+	url = https://github.com/SujithVadakkepat/sdk-transliteration.git
