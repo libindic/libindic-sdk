@@ -32,6 +32,11 @@ dependencies {
     compile project(':sdk-katapayadi')
     compile project(':sdk-render')
     compile project(':sdk-transliteration')
+    compile project(':sdk-inexact-search')
+    compile project(':sdk-ngram')
+    compile project(':sdk-shingling')
+    compile project(':sdk-text-similarity')
+    compile project(':sdk-ucasort')
 }
 
 //apply from: '../gradle-mvn-push.gradle'

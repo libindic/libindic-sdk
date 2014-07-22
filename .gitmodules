@@ -31,3 +31,18 @@
 [submodule "sdk-transliteration"]
 	path = sdk-transliteration
 	url = https://github.com/SujithVadakkepat/sdk-transliteration.git
+[submodule "sdk-ucasort"]
+	path = sdk-ucasort
+	url = https://github.com/SujithVadakkepat/sdk-ucasort.git
+[submodule "sdk-inexact-search"]
+	path = sdk-inexact-search
+	url = https://github.com/SujithVadakkepat/sdk-inexact-search.git
+[submodule "sdk-text-similarity"]
+	path = sdk-text-similarity
+	url = https://github.com/SujithVadakkepat/sdk-text-similarity.git
+[submodule "sdk-ngram"]
+	path = sdk-ngram
+	url = https://github.com/SujithVadakkepat/sdk-ngram.git
+[submodule "sdk-shingling"]
+	path = sdk-shingling
+	url = https://github.com/SujithVadakkepat/sdk-shingling.git
