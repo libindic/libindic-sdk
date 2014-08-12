@@ -37,6 +37,9 @@ dependencies {
     compile project(':sdk-shingling')
     compile project(':sdk-text-similarity')
     compile project(':sdk-ucasort')
+    compile project(':sdk-guesslanguage')
+    compile project(':sdk-hyphenation')
+    compile project(':sdk-spellchecker')
 }
 
 //apply from: '../gradle-mvn-push.gradle'
