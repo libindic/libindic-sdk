@@ -46,3 +46,12 @@
 [submodule "sdk-shingling"]
 	path = sdk-shingling
 	url = https://github.com/SujithVadakkepat/sdk-shingling.git
+[submodule "sdk-hyphenation"]
+	path = sdk-hyphenation
+	url = https://github.com/SujithVadakkepat/sdk-hyphenation.git
+[submodule "sdk-spellchecker"]
+	path = sdk-spellchecker
+	url = https://github.com/SujithVadakkepat/sdk-spellchecker.git
+[submodule "sdk-guesslanguage"]
+	path = sdk-guesslanguage
+	url = https://github.com/SujithVadakkepat/sdk-guesslanguage.git
