@@ -1,57 +1,57 @@
 [submodule "sdk-soundex"]
 	path = sdk-soundex
-	url = https://github.com/SujithVadakkepat/sdk-soundex.git
+	url = git@github.com:libindic/sdk-soundex.git
 [submodule "sdk-payyans"]
 	path = sdk-payyans
-	url = https://github.com/SujithVadakkepat/sdk-payyans.git
+	url = git@github.com:libindic/sdk-payyans.git
 [submodule "sdk-stemmer"]
 	path = sdk-stemmer
-	url = https://github.com/SujithVadakkepat/sdk-stemmer.git
+	url = git@github.com:libindic/sdk-stemmer.git
 [submodule "sdk-characterdetails"]
 	path = sdk-characterdetails
-	url = https://github.com/SujithVadakkepat/sdk-characterdetails.git
+	url = git@github.com:libindic/sdk-characterdetails.git
 [submodule "sdk-fortune"]
 	path = sdk-fortune
-	url = https://github.com/SujithVadakkepat/sdk-fortune.git
+	url = git@github.com:libindic/sdk-fortune.git
 [submodule "sdk-syllabifier"]
 	path = sdk-syllabifier
-	url = https://github.com/SujithVadakkepat/sdk-syllabifier.git
+	url = git@github.com:libindic/sdk-syllabifier.git
 [submodule "sdk-common"]
 	path = sdk-common
-	url = https://github.com/SujithVadakkepat/sdk-common.git
+	url = git@github.com:libindic/sdk-common.git
 [submodule "sdk-demo"]
 	path = sdk-demo
-	url = https://github.com/SujithVadakkepat/sdk-demo.git
+	url = git@github.com:libindic/sdk-demo.git
 [submodule "sdk-katapayadi"]
 	path = sdk-katapayadi
-	url = https://github.com/SujithVadakkepat/sdk-katapayadi.git
+	url = git@github.com:libindic/sdk-katapayadi.git
 [submodule "sdk-render"]
 	path = sdk-render
-	url = https://github.com/SujithVadakkepat/sdk-render.git
+	url = git@github.com:libindic/sdk-render.git
 [submodule "sdk-transliteration"]
 	path = sdk-transliteration
-	url = https://github.com/SujithVadakkepat/sdk-transliteration.git
+	url = git@github.com:libindic/sdk-transliteration.git
 [submodule "sdk-ucasort"]
 	path = sdk-ucasort
-	url = https://github.com/SujithVadakkepat/sdk-ucasort.git
+	url = git@github.com:libindic/sdk-ucasort.git
 [submodule "sdk-inexact-search"]
 	path = sdk-inexact-search
-	url = https://github.com/SujithVadakkepat/sdk-inexact-search.git
+	url = git@github.com:libindic/sdk-inexact-search.git
 [submodule "sdk-text-similarity"]
 	path = sdk-text-similarity
-	url = https://github.com/SujithVadakkepat/sdk-text-similarity.git
+	url = git@github.com:libindic/sdk-text-similarity.git
 [submodule "sdk-ngram"]
 	path = sdk-ngram
-	url = https://github.com/SujithVadakkepat/sdk-ngram.git
+	url = git@github.com:libindic/sdk-ngram.git
 [submodule "sdk-shingling"]
 	path = sdk-shingling
-	url = https://github.com/SujithVadakkepat/sdk-shingling.git
+	url = git@github.com:libindic/sdk-shingling.git
 [submodule "sdk-hyphenation"]
 	path = sdk-hyphenation
-	url = https://github.com/SujithVadakkepat/sdk-hyphenation.git
+	url = git@github.com:libindic/sdk-hyphenation.git
 [submodule "sdk-spellchecker"]
 	path = sdk-spellchecker
-	url = https://github.com/SujithVadakkepat/sdk-spellchecker.git
+	url = git@github.com:libindic/sdk-spellchecker.git
 [submodule "sdk-guesslanguage"]
 	path = sdk-guesslanguage
-	url = https://github.com/SujithVadakkepat/sdk-guesslanguage.git
+	url = git@github.com:libindic/sdk-guesslanguage.git
