@@ -1,4 +1,4 @@
-include ':libindic'
+include ':libindic-android-sdk'
 include ':sdk-common'
 include ':sdk-soundex'
 include ':sdk-payyans'
